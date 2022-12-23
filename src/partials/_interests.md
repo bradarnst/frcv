@@ -1,6 +1,6 @@
 ---
 tags: interests
 ---
-<!-- ## Interests -->
+<!-- ## Intérêts -->
 
-<!-- Mushroom Foraging -->
+<!-- butinage de champignons -->

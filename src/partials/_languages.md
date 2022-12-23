@@ -2,8 +2,8 @@
 tags: languages
 ---
 
-## Languages
+## Langues
 
-English (native)
+Anglais (locuteur natif)
 
-French (basic)
+Français (débutante)

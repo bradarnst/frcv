@@ -2,9 +2,8 @@
 tags: summary
 ---
 
-***Enterprise Technology Architect. Engineering / Technical Leader.***
+***Architecte de technologie d'entreprise.***
 
-Guides strategic and technical direction. Devises optimal architectures and designs. Smoothly defines and accelerates digital transformation and integration. Leads and shapes collaborative teams to excellence.
+Guide la direction stratégique et technique. Concevoir des architectures et des conceptions optimales. Définit et accélère en douceur la transformation et l'intégration numériques. Dirige et forme des équipes collaboratives vers l'excellence.
 
-Architect, design, transform and strategise. Motivate, mentor, and unite teams to produce their best. Broad and extensive experience. Hands-on. Leadership. Design.  Enterprise, solutions and technical architecture. Operations. Management. Agile methodologies and ways of working. Uses best practices, but not at the expense of pragmatism, imagination and creativity. Experienced in diverse industries and products. Uses a variety of approaches, platforms, systems and frameworks to achieve excellence. Business experience with startups, established companies and global enterprises in EMEA, the Americas, and Asia-Pacific. On-shore, off-shore and remote.
-
+Architecte, conçoit, transforme et élabore des stratégies. Motiver, encadrer et unir les équipes pour qu'elles donnent le meilleur d'elles-mêmes. Expérience large et étendue. Pratique. Leadership. Concevoir. Entreprise, solutions et architecture technique. Opérations. Gestion. Méthodologies et méthodes de travail agiles. Utilise les meilleures pratiques, mais pas au détriment du pragmatisme, de l'imagination et de la créativité. Expérimenté dans diverses industries et produits. Utilise une variété d'approches, de plateformes, de systèmes et de cadres pour atteindre l'excellence. Expérience commerciale avec des startups, des entreprises établies et des entreprises mondiales dans la région EMEA, les Amériques et l'Asie-Pacifique. On-shore, off-shore et à distance.

@@ -3,4 +3,4 @@ tags: title
 ---
 
 # Brad Arnst
-A Pragmatic Architect. An Engineering Leader.
+Un architecte pragmatique. Un leader de l'ingénierie.

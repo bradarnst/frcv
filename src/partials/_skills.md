@@ -2,58 +2,55 @@
 tags: skills
 ---
 
-## Skills & Proficiency
-### Professional and Personal
+## Compétences et maîtrise
+### Professionnel et personnel
 
-Architecture Strategy and Design. Experienced in a variety of architectural methods, frameworks and approaches. Experience in spearheading new strategies, and developing roadmaps. Pragmatic, drops down to tactical approaches if and when necessary. Works with the business to help discover, develop and drive the business forward. Gets down in the weeds when necessary to ensure shorter term goals are met. Extensive experience in transformation, integration, architecting for change, designing for optimisation and the future; including business and technical areas. Always considers Business and Technical alignment.
+Stratégie et conception d'architecture. Expérimenté dans une variété de méthodes, de cadres et d'approches architecturales. Expérience dans la mise en place de nouvelles stratégies et l'élaboration de feuilles de route. Pragmatique, se rabat sur des approches tactiques si et quand cela est nécessaire. Travaille avec l'entreprise pour aider à découvrir, développer et faire avancer l'entreprise. Se penche sur les mauvaises herbes lorsque cela est nécessaire pour s'assurer que les objectifs à court terme sont atteints. Vaste expérience dans la transformation, l'intégration, l'architecture du changement, la conception pour l'optimisation et l'avenir ; y compris les domaines commerciaux et techniques. Prend toujours en compte l'alignement commercial et technique.
 
-Engineering Leadership. Is an empathetic, servant leader. Mentoring, guiding and motivating people. Shaping and supporting collaborative teams to be excellent. Building, interviewing, hiring, growing teams.
+Direction de l'ingénierie. Est un leader empathique et serviteur. Encadrer, guider et motiver les gens. Former et soutenir des équipes collaboratives pour être excellentes. Construire, interviewer, embaucher, développer des équipes.
 
-Consulting and Engagement. Experienced with both internal and external (client-facing) consultation. Engaging with appropriate stakeholders to negotiate or convince as necessary. Experienced engaging with users, engineers and architects, managers and C-level executives. Often using humour or a lighter touch, but using formal approaches and accompanying documentation, presentations and talks as necessary. 
+Conseil et engagement. Expérimenté avec la consultation interne et externe (face au client). S'engager avec les parties prenantes appropriées pour négocier ou convaincre si nécessaire. Expérience d'interaction avec les utilisateurs, les ingénieurs et les architectes, les gestionnaires et les cadres de niveau C. Utilisant souvent l'humour ou une touche plus légère, mais en utilisant des approches formelles et des documents d'accompagnement, des présentations et des discussions si nécessaire.
 
-Team. Collaboration. Communication. While self-driven, thrives working with teams. Always engages with people and teams to be inclusive, to help ignite ideas. An effective communicator, nurtures people and teams. Builds and develops relationships across the organisation.
+Équipe. Collaboration. Communication. Tout en étant autonome, il aime travailler en équipe. S'engage toujours avec les gens et les équipes pour être inclusif, pour aider à susciter des idées. Un communicateur efficace, nourrit les gens et les équipes. Établit et développe des relations au sein de l'organisation.
 
-Creative. Pragmatic. Imaginative. Thorough. Decisive. A broad range of skills, knowledge and experience; systems, analytical thinking; and a creative, imaginative outlook with a collaborative and inclusive approach ensures that the best ideas are brought forward. Pragmatism and decisiveness ensures that the appropriate ideas&mdashfor the situation&mdashare acted upon.
+Créatif. Pragmatique. Imaginatif. Complet. Décisif. Un large éventail de compétences, de connaissances et d'expériences; systèmes, pensée analytique; et une perspective créative et imaginative avec une approche collaborative et inclusive garantit que les meilleures idées sont présentées. Le pragmatisme et l'esprit de décision garantissent que les idées et mdash;appropriées à la situation et mdash;are sont suivies d'effet.
 
-### Technical
+### Technique
 
-Architecture: Enterprise, Solutions, Infrastructure, Integration, Technology, Software.
+Architecture : Entreprise, Solutions, Infrastructure, Intégration, Technologie, Logiciel.
 
-Design of cloud, systems, platforms, services, software, DevOps, web, mobile, network, testing, operations.
+Conception de cloud, systèmes, plateformes, services, logiciels, DevOps, web, mobile, réseau, tests, opérations.
 
-DevOps, infrastructure as code (IaC), delivery pipelines, CI/CD.
-
+DevOps, infrastructure as code (IaC), pipelines de livraison, CI/CD.
 Docker, Kubernetes, ECS, Ansible, Terraform, Chef, Puppet, Jenkins, CircleCI, git.
 
-Cloud. AWS. Azure. Google Cloud Platform. Hybrid clouds.
+Cloud. AWS. Azure. Google Cloud Platform. Nuages hybrides.
 
-Delivery/Project management, SDLC, agile methodologies and ways of working. Jira, Kanban, Trello, Slack(integration).
+Gestion des livraisons/projets, SDLC, méthodologies et méthodes de travail agiles. Jira, Kanban, Trello, Slack (intégration).
 
-Design/Architecture documentation. UML, UML diagrams as code (PlantUML, etc.), Sparx, Visual Paradigm.
+Documentation de la conception/architecture. UML, diagrammes UML en tant que code (PlantUML, Mermaid, etc.), Sparx, Visual Paradigm, BizzDesign.
 
-Microservices architecure/patterns, API First, REST, event-driven, domain driven design.
+Architecture/patrons de microservices, API First, REST, event-driven, domain driven design (DDD).
 
-Data modeling, database design, SQL, NoSQL, graph, document-oriented, JSON, storage, data cache, data streaming, data migration, ETL.
+Modélisation de données, conception de bases de données, SQL, NoSQL, graphe, orienté document, JSON, stockage, cache de données, streaming de données, migration de données, ETL.
+API : stratégie, conception, modélisation, gestion, SDLC, meilleures pratiques, API First, Swagger, OpenAPI.
 
-API: strategy, design, modeling, management, SDLC, best practice, API First, Swagger, OpenAPI.
+Passerelle/gestion d'API : Apigee, Mulesoft, 3scale, AWS, Azure, Kong.
 
-API Gateway/Management: Apigee, Mulesoft, 3scale, AWS, Kong.
+Intégration, Enterprise Integration Patterns, messagerie, files de messages, flux de données, ESB.
 
-Integration, Enterprise Integration Patterns, messaging, message queues, data streams, ESB.
+Messagerie, JMS, AMQP, MQ, Kafka, Qpid, RabbitMQ.
 
-Messaging, JMS, AMQP, MQ, Kafka, Qpid, RabbitMQ.
+Big Data, analytique, BI, recherche, Elasticsearch, lac de données, ETL, streaming de données.
+Diriger, architecturer, concevoir : Java, Spring, .NET, web, Node.js, PHP, front-end, Javascript, CSS, HTML.
 
-Big Data, analytics, BI, search, Elasticsearch.
+Développer : front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
 
-Lead, architect, design: Java, Spring, .NET, web, Node.js, PHP, front-end, Javascript, CSS, HTML.
-
-Develop: front-end, full-stack, CSS, HTML, Javascript, Node.js, Python, JAMstack.
-
-Dev tools. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
+Outils de développement. TDD. git, Parcel, SASS, 11ty, Metalsmith, webpack.
 
 Workflow. BPMN, jBPM, WS-HumanTask.
 
-Security, identity management, threat detection, directory services, Active Directory, ADFS, SAML, LDAP, OAuth, OpenID Connect, RADIUS, ForgeRock, RSA SecureID, SSL/TLS, certificate management.
+Sécurité, gestion des identités, IAM, détection des menaces, services d'annuaire, Active Directory, ADFS, SAML, LDAP, OAuth, OpenID Connect, RADIUS, ForgeRock, RSA SecureID, SSL/TLS, gestion des certificats.
 
-Non-functional. Operations, support, runtime, monitoring, backup, recovery, key management, availability, reliability, content.
+Non-fonctionnel. Opérations, support, exécution, surveillance, sauvegarde, récupération, gestion des clés, disponibilité, fiabilité, contenu.
 

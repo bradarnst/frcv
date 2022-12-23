@@ -2,163 +2,162 @@
 tags: experience
 ---
 
-## Professional Experience
-#### Senior Solutions Architect
-###### Shell (via The Aubay Group) &mdash; London, UK | Jan 2021 - Present
-Provides solution architecture development, consultancy and assurance to products and projects. integrate the: Business Process, Data, Application, Technical and Information Security aspects of a Product or IT Solution. Coach detailed designers and business analysts in projects during their design work. Lead and collaborate within agile, cross-functional teams to develop and build data analytics applications for Trading, Energy and Group Carbon.
+## Expérience Professionnelle
+#### Architecte principal des solutions
+###### Shell (via The Aubay Group) &mdash; London, UK | janv 2021 - juin 2022
+Fournir le développement de l'**architecture de la solution**, la consultation et l'assurance des produits et des projets. intégrer les : Processus métier, données, applications, aspects techniques et sécurité de l'information d'un produit ou d'une solution informatique. Encadrer les concepteurs détaillés et les analystes d'affaires des projets pendant leur travail de conception. Diriger et collaborer au sein d'équipes agiles et interfonctionnelles pour développer et construire des applications d'analyse de données pour le trading, l'énergie et le carbone du groupe.
 
-• Leadership • Agile • Cloud • Azure • BizzDesign • Digital • Databricks • PowerBI • DevOps •
+- Leadership - Agile - Azure - BizzDesign - Numérique - Azure Data Lake - Analytique - Azure API Management - Databricks - Event Grid - Data Factory - PowerBI - DevOps - Documents de conception de haut niveau -
 
-#### Senior Solutions Architect
-###### Zensar Technolgies &mdash; London, UK | Jul 2021 - Jan 2022
-As a **Senior Solution Architect** for Zensar Technologies responsible for engaging with external clients as a Principal Consultant. Within Zensar responsible for providing architectural, digital and engineering leadership, mentorship and direction.
+#### Architecte principal des solutions
+###### Zensar Technolgies &mdash; London, UK | juil 2021 - janv 2022
+En tant qu'**architecte principal de solutions** pour Zensar Technologies, vous êtes chargé de vous engager auprès de clients externes en tant que consultant principal. Au sein de Zensar, il est responsable de la direction, du mentorat et de l'orientation en matière d'architecture, de numérique et d'ingénierie.
 
-• Consulting • Leadership • Architecture • Engineering • Mentorship • Digital • 
+- Conseil - Leadership - Architecture - Ingénierie - Mentorat - Digital -
 
-#### Senior Digital Architect
-###### The AA &mdash; London, UK | Jul 2021 - Jan 2022
-As a **Senior Digital Architect** for The AA responsible for Solutions and Digital Architecture in The AA. Provding digital archiecture direction and digital transformation, helping guide The AA forward to a cloud landscape with reactive and microservice architecture patterns, devops and digital platforms. Ensuring products or projects are successfully developed or transitioned into a digital-centric landscape. Liasing with Enterprise Architects and Data Architects on projects and roadmaps as The AA transforms and unifies.
+#### Architecte numérique senior
+###### The AA &mdash; London, UK | juil 2021 - janv 2022
+En tant qu'**architecte numérique senior** pour l'AA, vous êtes responsable des solutions et de l'architecture numérique de l'AA. Fournir une orientation en matière d'architecture numérique et de transformation numérique, en aidant à guider l'AA vers un paysage de nuage avec des modèles d'architecture réactifs et de microservices, des devops et des plateformes numériques. S'assurer que les produits ou les projets sont développés avec succès ou en transition vers un paysage numérique. Assurer la liaison avec les architectes d'entreprise et les architectes de données sur les projets et les feuilles de route à mesure que l'AA se transforme et s'unifie.
 
-• AWS • Azure • Angular • Sitecore • Java • Spring • Swift • Cloudflare • databases • messaging • microservices • digital • UML •  APIs •  HLDs •  Jira •  github • architecture review board •
+- AWS - Azure - Angular - Sitecore - Java - Spring - Swift - Cloudflare - bases de données - messagerie - microservices - digital - UML - APIs - HLDs - Jira - github - architecture review board -
 
-#### Digital Solutions Architect
-###### Post Office &mdash; London, UK | Apr 2021 - Jul 2021
-As a Digital **Solution Architect** for Branch & Digital Engineering responsible for solutions and technical architecture on a new, cloud-native (AWS) platform. Using micro-services, end vent-driven architecture, mostly serverless design responsible for solutions and designs integrating legacy and new capabilities. Vendor selection. Technical Design Authority.
+#### Architecte de solutions numériques
+###### Post Office &mdash; London, UK | avr 2021 - juil 2021
+En tant qu'**architecte de solutions numériques** pour Branch & Digital Engineering responsable des solutions et de l'architecture technique sur une nouvelle plateforme cloud-native (AWS). En utilisant les micro-services, l'architecture end vent-driven, principalement la conception serverless responsable des solutions et des conceptions intégrant les capacités héritées et nouvelles. Sélection des fournisseurs. Autorité de conception technique.
 
-• AWS • serverless • DynamoDB • Jira • Event Bridge • agile • Streams • REST • NoSQL data modeling • JSON • Parquet • Lambda • Athena • AWS Glue • Batch •
+- AWS - serverless - DynamoDB - Jira - Event Bridge - agile - Streams - REST - modélisation de données NoSQL - JSON - Parquet - Lambda - Athena - AWS Glue - Batch -
 
-#### Principal Consultant
-###### Buildit @ Wipro Digital &mdash; London, UK | Sep 2018 - Nov 2020
-As a **Principal Consultant** for Buildit @ Wipro Digital, consulted internally and externally as an Enterprise Technology Architect and Engineering Manager. Buildit is a talented, highly-performing team within Wipro Digital that provides multidisciplinary consultancy for engineering and digital transformation.
+#### Consultant principal
+###### Buildit @ Wipro Digital &mdash; London, UK | sept 2018 - nov 2020
+En tant que **consultant principal** pour Buildit @ Wipro Digital, a consulté en interne et en externe en tant qu'architecte technologique d'entreprise et gestionnaire d'ingénierie. Buildit est une équipe talentueuse et très performante au sein de Wipro Digital qui fournit des conseils multidisciplinaires pour l'ingénierie et la transformation numérique.
 
-As **Enterprise Architect** responsible for architecture, strategy and digital transformation consults for clients and within Buildit. Areas of responsibilities include: API strategy, digital transformation, enterprise integration, cloud strategy/architecture, devops, digital transformation, engineering transformation and agile ways of working.
+En tant qu'**architecte d'entreprise** responsable de l'architecture, de la stratégie et de la transformation numérique consulte pour les clients et au sein de Buildit. Les domaines de responsabilités incluent : Stratégie API, transformation numérique, intégration d'entreprise, stratégie/architecture cloud, devops, transformation numérique, transformation de l'ingénierie et méthodes de travail agiles.
 
-As **Engineering Manager** responsible for mentoring Buildit and Wipro Digital engineering teams, consulting on engineering transformation, cloud, API and microservices design (and best practices) with clients and within Wipro Digital. Refining and guiding ways of working, creative thinking, and modern, digital approaches.
+En tant que **directeur de l'ingénierie**, responsable de l'encadrement des équipes d'ingénierie de Buildit et de Wipro Digital, du conseil en matière de transformation de l'ingénierie, de cloud, d'API et de conception de microservices (et des meilleures pratiques) auprès des clients et au sein de Wipro Digital. Affiner et guider les méthodes de travail, la pensée créative et les approches modernes et numériques.
 
-Clients include: Lloyds Banking Group, UBS, Repsol
+Parmi les clients figurent : Lloyds Banking Group, UBS, Repsol.
 
-• AWS • Azure • UML • Jira • devops • agile • API strategy • REST • cloud • transformation • Docker • Kubernetes • JAMstack • SaaS • consulting •
+- AWS - Azure - UML - Jira - devops - agile - stratégie API - REST - cloud - transformation - Docker - Kubernetes - JAMstack - SaaS - conseil -
 
+#### Architecte principal
+###### Enterprise Blueprints &mdash; London, UK | avr 2016 - sept 2018
 
-#### Principal Architect
-###### Enterprise Blueprints &mdash; London, UK | Apr 2016 - Sep 2018
+En tant qu'**architecte principal consultant**. Enterprise Blueprints (EB) fournit des conseils stratégiques et architecturaux en matière d'informatique, principalement pour les organisations financières.
 
-As **Consulting Principal Architect**. Enterprise Blueprints (EB) provides Strategic and Architectural IT Consultation, primarily for financial organisations.
+#### Architecte d'entreprise principal
+###### 10x (via EB) &mdash; London, UK | déc 2017 - sept 2018
+En tant qu'**architecte d'entreprise principal**, vous êtes responsable des concepts et des modèles architecturaux. 10x est une FinTech qui offre une plateforme technologique de base pour la banque numérique. Les principales responsabilités comprennent la stratégie API, la conception API, la gestion API, l'intégration au sein de 10x et avec des services et partenaires externes. 10x et (l'investisseur principal) Virgin Money ont construit une plateforme bancaire numérique moderne et sur mesure en utilisant une architecture microservices sur AWS cloud native.
 
-#### Lead Enterprise Architect
-###### 10x (via EB) &mdash; London, UK | Dec 2017 - Sep 2018
+En tant que **chef d'équipe d'ingénierie par intérim**, j'étais responsable du mentorat et de la transformation d'une des équipes de fonctionnalité en une équipe d'ingénierie responsable de toutes les API et de l'intégration pour 10x.
 
-As **Lead Enterprise Architect** responsible for architectural concepts and patterns. 10x is a FinTech that offers a core technology platform for digital banking. Primary responsibilities include API strategy, API design, API management, integration within 10x and with external services and partners. 10x and (main investor) Virgin Money were building a modern, bespoke digital banking platform using microservices architecture on AWS cloud native.
+- architecture d'entreprise - architecture de solutions - conception - architecture d'intégration - architecture de microservices - stratégie API - conception API - modélisation NoSQL - architecture de plateforme - Apigee Edge - AWS - OpenID/OAuth - UML - Spring Java - Kafka - linkerd service mesh -
 
-As **Interim Engineering Team Lead** was responsible for mentoring and shaping one of the feature teams into an engineering team responsible for all APIs and integration for 10x.
+#### Architecte de programme d'entreprise
+###### Nationwide (via EB) &mdash; Swindon, UK | avr 2016 - oct 2017
 
-• enterprise architecture • solutions architecture • design • integration architecture • microservices architecture • API strategy • API design • NoSQL modelling • platform architecture • Apigee Edge • AWS • OpenID/OAuth • UML • Spring Java • Kafka • linkerd service mesh •
+En tant qu'**architecte de programme d'entreprise**, vous êtes responsable des concepts et des modèles architecturaux pour l'API Enablement et l'Open Banking, en veillant à ce que l'architecture soit conforme aux feuilles de route de l'architecture d'entreprise de Nationwide. Les responsabilités comprenaient : DevOps et architecture de test ; meilleures pratiques pour l'utilisation des API ; API SDLC, normes du cloud (Azure). Architecte de solutions pour un projet tactique d'API soumis à de fortes contraintes de temps en raison de mandats réglementaires. Conception et mise en œuvre d'une plateforme API en nuage, conception des API, des magasins de données, des applications, de la sécurité, des opérations et du modèle de soutien.
 
-#### Enterprise Programme Architect
-###### Nationwide (via EB) &mdash; Swindon, UK | Apr 2016 - Oct 2017
+- Conception de plateforme API - architecture de plateforme de test - gestion des fournisseurs - architecture de plateforme Dev Ops - API SDLC - sécurité API - Apigee Edge - Azure -
 
-As **Enterprise Programme Architect** responsible for architectural concepts and patterns for API Enablement and Open Banking. ensuring the architecture aligned with Nationwide’s enterprise architecture roadmaps. Responsibilities included: DevOps and testing architecture; best practice for employing APIs; API SDLC, cloud standards (Azure). Solutions Architect for a tactical, API project that had severe time pressure, due to regulatory mandates. Designed and implemented a cloud API platform, designed APIs, data stores, applications, security, operations and support model.
-
-• API platform design • test platform architecture • vendor management • Dev Ops platform architecture • API SDLC • API security • Apigee Edge • Azure •
-
-#### Lead Architect & Engineering Manager
+#### Architecte principal et responsable de l'ingénierie
 ###### Gresham Computing &mdash; London, UK | 2015 - 2016
 
-As **Lead Architect** and **Engineering Manager** responsible for engineering management, overall architecture and design, API design, data modeling, integration architecture and design, AWS design, test approach, and devops. The product was a greenfield, bespoke web-application; designed for a commercial loan administration company. Hired, guided, and mentored the cross-functional team responsible for the bespoke application. The product design was: micro-services architecture, SPA, RESTful, (mostly) serverless, in an AWS cloud environment.
+En tant qu'**architecte principal** et **directeur de l'ingénierie**, il était responsable de la gestion de l'ingénierie, de l'architecture et de la conception globales, de la conception de l'API, de la modélisation des données, de l'architecture et de la conception de l'intégration, de la conception AWS, de l'approche des tests et du devops. Le produit était une nouvelle application Web sur mesure, conçue pour une société d'administration de prêts commerciaux. J'ai embauché, guidé et encadré l'équipe interfonctionnelle responsable de l'application sur mesure. La conception du produit était la suivante : architecture micro-services, SPA, RESTful, (principalement) serverless, dans un environnement cloud AWS.
 
-• requirements • analysis • Swagger • NoSQL modelling • Elasticsearch • AWS Lambda (Java) • integration (messaging) design • federated identity management • Angular • AWS • estimates • hiring • customer engagement •
+- exigences - analyse - Swagger - modélisation NoSQL - Elasticsearch - AWS Lambda (Java) - conception de l'intégration (messagerie) - gestion fédérée des identités - Angular - AWS - estimations - embauche - engagement des clients
 
-#### Solution Architect
+#### Architecte de solutions
 ###### Health Shared Services BC &mdash; Vancouver, Canada | 2015
 
-As **Solution Architect** primarily was responsible for Solution Architecture, Solution Delivery Proposals, and Solution (High-Level) Design.
+En tant qu'**architecte de solutions**, il était principalement responsable de l'architecture des solutions, des propositions de livraison de solutions et de la conception (de haut niveau) des solutions.
 
-• architecture & design • requirements • lead design meetings • design documents • Tech Lead • architecture/project reviews • project estimates •
+- architecture & conception - exigences - diriger les réunions de conception - documents de conception - Tech Lead - revues d'architecture/de projet - estimations de projet -
 
-#### Enterprise Architect
+#### Architecte d'entreprise
 ###### KiwiRail &mdash; Auckland, New Zealand | 2013 - 2014
 
-As **Enterprise Architect** provided enterprise architecture, strategy, planning, continuous improvement, design and delivery of solutions. Collaborated with KiwiRail IT architects on life cycle planning, architectural principles, policies and standards. Architected for change.
+En tant qu'**architecte d'entreprise**, il a fourni une architecture d'entreprise, une stratégie, une planification, une amélioration continue, une conception et une livraison de solutions. Collaboration avec les architectes informatiques de KiwiRail sur la planification du cycle de vie, les principes architecturaux, les politiques et les normes. Architecte du changement.
 
-As **Lead Architect** and **Technical Lead** on a $25M+ multi-year, programme transitioning KiwiRail Freight legacy systems to a bespoke architecture. Responsibilities: architecture and design of an event-driven, SOA for operations, booking, billing, invoicing, analytics, workflow, task management, logistics, platforms and SSO. Helped shape and guide the technical team, hiring where necessary and directed many vendor resources.
+En tant qu'**architecte principal** d'un programme pluriannuel de plus de 25 millions de dollars visant à remplacer les anciens systèmes de fret de KiwiRail par une architecture sur mesure. Responsabilités : architecture et conception d'une SOA événementielle pour les opérations, les réservations, la facturation, l'analyse, le workflow, la gestion des tâches, la logistique, les plateformes et le SSO. A aidé à former et à guider l'équipe technique, en recrutant si nécessaire et en dirigeant de nombreuses ressources de fournisseurs.
 
-The programme included: custom development, integration services, platform selection, web, app servers, document storage, security, workflow, rules, graph and NoSQL databases, search, event recording, analytics, audit and infrastructure. Key activities and deliverables include: Design, Architecture, Implementation Planning, Strategy, and Documentation.
+Le programme comprenait : le développement personnalisé, les services d'intégration, la sélection des plates-formes, les serveurs web, les serveurs d'applications, le stockage des documents, la sécurité, le flux de travail, les règles, les bases de données graphiques et NoSQL, la recherche, l'enregistrement des événements, l'analytique, l'audit et l'infrastructure. Les activités et livrables clés comprennent : Conception, architecture, planification de la mise en œuvre, stratégie et documentation.
 
-• REST • Java • Spring • TDD • devops • git • maven • Jenkins • Tomcat • Mulesoft • UML • Sparx EA • SSO • AD • analytics • CouchDB • Elasticsearch • Neo4J • SaaS • VMWare • GoPivotal • linux • custom SAP • jBPM • SharePoint architecture • TOGAF •
+- REST - Java - Spring - TDD - devops - git - maven - Jenkins - Tomcat - Mulesoft - UML - Sparx EA - SSO - AD - analytics - CouchDB - Elasticsearch - Neo4J - SaaS - VMWare - GoPivotal - linux - custom SAP - jBPM - SharePoint architecture - TOGAF -
 
-#### Solutions Architect
+#### Architecte de solutions
 ###### EDF Energy &mdash; London, UK | 2012 - 2013
 
-As **Solutions Architect** primarily responsible for project delivery, architecture and design. Also responsible for Enterprise Architecture within B2C, aligning with EDF as a whole. Developed the Solution Architect Roadmap template.Developed technology and strategic roadmaps for various business objectives, technologies, and BAU. Developed an analytic tool for dynamically displaying maturity and confidence for roadmaps, programmes and projects.
+En tant qu'**architecte de solutions**, il est principalement responsable de la réalisation, de l'architecture et de la conception des projets. Il est également responsable de l'architecture d'entreprise au sein de B2C, en s'alignant sur l'ensemble d'EDF. Il a développé le modèle de feuille de route de l'architecte de solutions et des feuilles de route technologiques et stratégiques pour divers objectifs commerciaux, technologies et BAU. Développement d'un outil analytique pour afficher dynamiquement la maturité et la confiance pour les feuilles de route, les programmes et les projets.
 
-• BI • Analytics • Big Data • smart-meter IoT • Hadoop with SAP HANA • SharePoint architecture and build • SOA • SAP – Billing Finance CRM • project estimates/cost • Telephony • TOGAF •
+- BI - Analytics - Big Data - smart-meter IoT - Hadoop avec SAP HANA - SharePoint architecture and build - SOA - SAP - Billing Finance CRM - project estimates/cost - Telephony - TOGAF -
 
-#### Senior Infrastructure Architect
+#### Architecte d'infrastructure senior
 ###### HP &mdash; London, UK | 2012
 
-As **Senior Infrastructure Architect** for HP, for their BP account, responsible for Data Centre Services (DCS) Architecture at the Global Data Centre Operations/Solutions located in BP Data Centres.
+En tant qu'**architecte d'infrastructure senior** pour HP, pour leur compte BP, responsable de l'architecture des services de centres de données (DCS) dans les opérations/solutions de centres de données mondiaux situés dans les centres de données BP.
 
-• servers • mid-range • database • web-hosting • middleware • storage • backup • requirements • governance • high-level & detailed design •
+- serveurs - milieu de gamme - base de données - hébergement web - middleware - stockage - sauvegarde - besoins - gouvernance - conception de haut niveau et détaillée
 
-#### Enterprise Solutions Architect
+#### Architecte de solutions d'entreprise
 ###### Xchanging &mdash; London, UK | 2010 - 2012
 
-As **Enterprise Solutions Architect** responsible for solutions architecture throughout Xchanging and to external customers; consulting for internal and external business clients; Enterprise Architecture. Primary resource for all security architecture. Developed the solution for a standard desktop for offshore, near-shore and internal employees using hybrid cloud systems. Designed a solution for a SharePoint front-end to provide app delivery, hosting and remote management for offshore and onshore users.
+En tant qu'**architecte de solutions d'entreprise**, il est responsable de l'architecture des solutions dans l'ensemble de Xchanging et auprès des clients externes ; il est chargé de la consultation des clients internes et externes ; de l'architecture d'entreprise. Ressource principale pour toute l'architecture de sécurité. Développement d'une solution pour un bureau standard pour les employés offshore, near-shore et internes utilisant des systèmes de cloud hybride. Conception d'une solution pour un front-end SharePoint afin de fournir la livraison d'applications, l'hébergement et la gestion à distance pour les utilisateurs offshore et onshore.
 
- • enterprise architecture • requirements • proposals • solution design & documentation • Microsoft • mainframe integration • Citrix • end-user computing platform design • roadmaps • private & hybrid cloud strategy •
+- architecture d'entreprise - exigences - propositions - conception et documentation de la solution - Microsoft - intégration de l'ordinateur central - Citrix - conception de la plateforme informatique de l'utilisateur final - feuilles de route - stratégie de nuage privé et hybride -...
 
-#### Enterprise Solutions Architect
+#### Architecte de solutions d'entreprise
 ###### Husky Energy &mdash; Calgary, Canada | 2008 - 2009
 
-As **Enterprise Solutions Architect** for the Enterprise Architecture Team responsible for developing technical roadmaps for Husky’s entire systems infrastructure. Developed the architecture and implementation plan to migrate from Novell systems to Microsoft systems. Developed integration standards for web/SAP (NetWeaver, PI & XI)
+En tant qu'**architecte de solutions d'entreprise** pour l'équipe d'architecture d'entreprise, responsable du développement de feuilles de route techniques pour l'ensemble de l'infrastructure des systèmes de Husky. Il a développé l'architecture et le plan de mise en œuvre pour migrer des systèmes Novell aux systèmes Microsoft. Développement de normes d'intégration pour le Web/SAP (NetWeaver, PI & XI).
 
-• TOGAF • ARIS • SharePoint •
+- TOGAF - ARIS - SharePoint -
 
-#### Enterprise Architect
+#### Architecte d'entreprise
 ###### FortisAlberta Inc. &mdash; Calgary, Canada | 2007 - 2008
 
-As **Enterprise Architect** responsible for developing Fortis Alberta’s enterprise architecture and solution architecture for major projects. Developed technology and security roadmaps, ensuring all were aligned with business vision and objectives.
+En tant qu'**architecte d'entreprise**, il était responsable du développement de l'architecture d'entreprise de Fortis Alberta et de l'architecture des solutions pour les grands projets. Il a élaboré des feuilles de route en matière de technologie et de sécurité, en veillant à ce qu'elles soient conformes à la vision et aux objectifs de l'entreprise.
 
-• AD • security • content-filtering • DR design • virtualization • web • storage • database consolidation • SQL Server • Oracle RAC • Citrix Access Gateway • remote access • WAN optimization • server consolidation • SAP • web services integration: BizTalk, NetWeaver & MQSeries • partner network rationalization • SharePoint • TOGAF • ARIS •
+- AD - sécurité - filtrage de contenu - conception DR - virtualisation - web - stockage - consolidation de bases de données - SQL Server - Oracle RAC - Citrix Access Gateway - accès à distance - optimisation WAN - consolidation de serveurs - SAP - intégration de services web : BizTalk, NetWeaver & MQSeries - rationalisation du réseau de partenaires - SharePoint - TOGAF - ARIS -
 
-#### Web/Middleware Architect
+#### Architecte web et middleware
 ###### Petro-Canada &mdash; Calgary, Canada | 2006 - 2007
 
-As **Web/Middleware Architect** responsible for analyzing, architecting, designing and planning of web, middleware and security within Petro-Canada. Directed technical personnel to ensure web and middleware platforms and services met high standards of performance and reliability. Developed and implemented security architecture for web and middleware: multi-factor authentication, reduced sign-on, PCI compliance, SSL certificate authority and deployment. Designs and implementations were directly responsible for savings of over $650K in one year.
+En tant qu'**architecte web/middleware**, responsable de l'analyse, de l'architecture, de la conception et de la planification du Web, du middleware et de la sécurité au sein de Petro-Canada. Il a dirigé le personnel technique afin de s'assurer que les plateformes et les services Web et intergiciels répondent à des normes élevées de performance et de fiabilité. Élaboration et mise en œuvre de l'architecture de sécurité pour le Web et les intergiciels : authentification multifactorielle, authentification réduite, conformité PCI, autorité et déploiement des certificats SSL. Les conceptions et les mises en œuvre ont été directement responsables d'économies de plus de 650 000 dollars en un an.
 
-• security policies • PCI • F5 • SSL VPN • public/retail web • DNS • proxy • load balancers • Oracle Grid Control • Oracle Application Server • Tomcat • AD • Radius • web portal • RSA SecurID • SharePoint • web HA • monitoring & reporting •
+- Politiques de sécurité - PCI - F5 - VPN SSL - Web public/de détail - DNS - proxy - équilibreurs de charge - Oracle Grid Control - Oracle Application Server - Tomcat - AD - Radius - portail Web - RSA SecurID - SharePoint - Web HA - surveillance et rapports -...
 
-#### Senior Technical Architect
+#### Architecte technique senior
 ###### NETeller &mdash; Calgary, Canada | 2005 - 2006
 
-As **Senior Technical Architect** responsible for analyzing, architecting, designing, and planning technical systems and security within NETeller. As senior technical resource was responsible for mentoring systems personnel. Developed technology and security roadmaps.
+En tant qu'**architecte technique senior**, il était responsable de l'analyse, de l'architecture, de la conception et de la planification des systèmes techniques et de la sécurité au sein de NETeller. En tant que ressource technique principale, il était responsable de l'encadrement du personnel des systèmes. Il a élaboré des feuilles de route en matière de technologie et de sécurité.
 
-• AD • security • encryption • auditing • storage • SMTP gateway • Exchange • archiving • IIS • Apache • JBOSS • TomCat • JRockit • Blackberry BES • monitoring • ITIL •
+- AD - sécurité - cryptage - audit - stockage - passerelle SMTP - Exchange - archivage - IIS - Apache - JBOSS - TomCat - JRockit - Blackberry BES - surveillance - ITIL -...
 
-#### Web/Middleware Architect
+#### Architecte web et middleware
 ###### Burlington Resources &mdash; Calgary, Canada | 2004 - 2005
 
-As **Web/Middleware Architect** responsible for analyzing, designing, securing and optimizing web and multi-tier applications for the Data Management group within Burlington.
+En tant qu'**architecte web/middleware**, vous êtes responsable de l'analyse, de la conception, de la sécurisation et de l'optimisation des applications Web et multi-tiers pour le groupe de gestion des données de Burlington.
 
-• IIS • ASP •.NET • Hyperion Essbase • SQL Server • Oracle • Java app servers • WebLogic • Solaris • SharePoint architecture & adoption • Crystal Reports •
+- IIS - ASP - .NET - Hyperion Essbase - SQL Server - Oracle - Java app servers - WebLogic - Solaris - architecture et adoption de SharePoint - Crystal Reports -...
 
-#### Senior Technical Lead
+#### Chef technique senior
 ###### ENMAX Corporation &mdash; Calgary, Canada | 2003 - 2004
 
-As **Senior Technical Lead** on a large migration project, responsible for analysis, technical design and planning, technical implementation, and technical lead of the server, data, user and application moves and redeployments. Led a team of 20 from client, vendor and provider. Design, planning and implementation of data/user migration amongst data centres, networks and security: AD, NetApp, and Exchange.
+En tant que **responsable technique principal** d'un grand projet de migration, il était chargé de l'analyse, de la conception et de la planification techniques, de la mise en œuvre technique et de la direction technique des déplacements et des redéploiements de serveurs, de données, d'utilisateurs et d'applications. Il a dirigé une équipe de 20 personnes provenant du client, du fournisseur et du prestataire. Conception, planification et mise en œuvre de la migration des données/utilisateurs entre les centres de données, les réseaux et la sécurité : AD, NetApp et Exchange.
 
-• 58 applications • Oracle & SQL Server • Windows, Sun/Solaris servers • BizTalk • Exchange • clustered SQL • security-hardened shared web services •
+- 58 applications - Oracle & SQL Server - serveurs Windows, Sun/Solaris - BizTalk - Exchange - clustering SQL - services web partagés renforcés en termes de sécurité -
 
-#### Senior Architect & Interim IT Manager
+#### Architecte principal et responsable informatique par intérim
 ###### Foothills Pipe Lines &mdash; Calgary, Canada | 2001 - 2003
 
-As **Senior Architect** and **Interim IT Manager** developed and refined architecture, procedures and standards. Responsible for management of technical resources. Developed technology roadmaps.
+En tant qu'**architecte principal** et **directeur informatique par intérim**, il a développé et affiné l'architecture, les procédures et les normes. Responsable de la gestion des ressources techniques. Développement de feuilles de route technologiques.
 
-• network • servers • desktop • apps • security • DR • Exchange • firewalls • NetApp • SMS • web • monitoring • change control • Linux • HPUX • AD • DNS • Exchange • SMTP • SQL Server • Agresso • backup •
+- Réseau - Serveurs - Bureau - Applications - Sécurité - DR - Exchange - Pare-feu - NetApp - SMS - Web - Surveillance - Contrôle des changements - Linux - HPUX - AD - DNS - Exchange - SMTP - SQL Server - Agresso - Sauvegarde.
 
 #### Various (Previous) Roles
 ###### Various Companies &mdash; Canada and UK | 1994...2001
 
-Various Companies: In Oil and Gas, Energy, IT Consulting, and Service Provision.
+Diverses entreprises: Dans le secteur du pétrole et du gaz, de l'énergie, du conseil en informatique et de la prestation de services.
 
-Various roles: Solutions Architect, Technical Architect, Infrastructure Architect, IT Manager, Consultant.
+Divers rôles: Architecte de solutions, architecte technique, architecte d'infrastructure, responsable informatique, consultant.
+

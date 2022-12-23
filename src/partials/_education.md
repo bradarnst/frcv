@@ -2,13 +2,13 @@
 tags: education
 ---
 
-## Education
+## Éducation
 
-**One year Computer Science**
+**Un an d'informatique**
 Grande Prairie College
 
-**(Various) Technical and architecture training**
+**Formations techniques et architectures (diverses)**
 Microsoft, Oracle, f5
 
-**Business Impact Leadership Programme**
+**Programme de leadership d'impact sur les entreprises**
 fecund training

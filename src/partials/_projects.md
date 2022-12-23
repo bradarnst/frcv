@@ -2,10 +2,10 @@
 tags: projects
 ---
 
-## Projects
-#### Static website CV
-###### Static websites. Github. Markdown. Eleventy. JAMstack. Sass. AWS. CDN.
+## Projets
+#### CV de site web statique
+###### Sites web statiques. Github. Markdown. Eleventy. JAMstack. Sass. AWS. CDN.
 
-[Brad Arnst Static Website CV](https://github.com/bradarnst/newcv) A project to develop, building and deploy this CV.
+[Brad Arnst CV de site web statique](https://github.com/bradarnst/newcv) Un projet pour développer, construire et déployer ce CV.
 
-This is a static website, using [Eleventy](https://www.11ty.dev/)&mdash;a static website generator. It’s a serverless, secure, static website. It runs on Amazon AWS, using S3 as the storage/website and Amazon CloudFront for CDN. See the README.md for more information.
+Il s'agit d'un site web statique, utilisant [Eleventy](https://www.11ty.dev/), un générateur de sites web statiques. Il s'agit d'un site statique sans serveur, sécurisé. Il fonctionne sur Amazon AWS, en utilisant S3 comme stockage/site web et Amazon CloudFront pour le CDN. Consultez le fichier README.md pour plus d'informations.
