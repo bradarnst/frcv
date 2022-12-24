@@ -12,7 +12,7 @@
     "build:scss": "sass --no-source-map --style=compressed src/styles:src/css",
     "build:11ty": "eleventy",
     "build:pdf": "node ./topdf.js",
-    "deploy:aws": "aws s3 sync _site s3://cv.nexusseven.com --size-only --exclude '.git/*' && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
+    "deploy:aws": "aws s3 cp _site s3://cv.nexusseven.com/fr/ --recursive && aws cloudfront create-invalidation --distribution-id E1LF1P8TKLF8QZ --paths '/*'"
   },
   "author": "Brad Arnst",
   "license": "MIT",
