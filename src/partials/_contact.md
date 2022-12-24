@@ -10,6 +10,6 @@ tags: contact
 
 <!-- <i class="fas fa-sms" data-contact="  SMS: +33 7 79 99 05 31"></i>[SMS](sms:+33779990531) -->
 
-<i class="fas fa-map-marker-alt" data-contact="Rambouillet, FR"></i>[Rambouillet, FR](https://goo.gl/maps/Gzuf7DiyDRaQmh8J8)
+<i class="fas fa-map-marker-alt" data-contact="Rambouillet, FR"></i>[Rambouillet, FR](https://goo.gl/maps/QCDRaayHWdhWzy8f9)
 
 <!-- ![Brad Bust](img/brad-bust-pub1.png) -->

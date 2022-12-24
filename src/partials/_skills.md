@@ -13,7 +13,7 @@ Conseil et engagement. Expérimenté avec la consultation interne et externe (fa
 
 Équipe. Collaboration. Communication. Tout en étant autonome, il aime travailler en équipe. S'engage toujours avec les gens et les équipes pour être inclusif, pour aider à susciter des idées. Un communicateur efficace, nourrit les gens et les équipes. Établit et développe des relations au sein de l'organisation.
 
-Créatif. Pragmatique. Imaginatif. Complet. Décisif. Un large éventail de compétences, de connaissances et d'expériences; systèmes, pensée analytique; et une perspective créative et imaginative avec une approche collaborative et inclusive garantit que les meilleures idées sont présentées. Le pragmatisme et l'esprit de décision garantissent que les idées et mdash;appropriées à la situation et mdash;are sont suivies d'effet.
+Créatif. Pragmatique. Imaginatif. Complet. Décisif. Un large éventail de compétences, de connaissances et d'expériences; systèmes, pensée analytique; et une perspective créative et imaginative avec une approche collaborative et inclusive garantit que les meilleures idées sont présentées. Le pragmatisme et l'esprit de décision garantissent que les idées et&mdash;appropriées à la situation et&mdash;are sont suivies d'effet.
 
 ### Technique
 
