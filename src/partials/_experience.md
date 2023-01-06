@@ -3,8 +3,15 @@ tags: experience
 ---
 
 ## Expérience Professionnelle
+
+#### Architecte de solutions principal
+###### Ubisoft &mdash; Paris, FR | juin 2022 - Present
+En tant qu'**architecte de solutions principal**, gère l'équipe d'architecture pour l'entreprise informatique et la gouvernance au sein d'Ubisoft. Responsable du développement de la stratégie d'architecture, des feuilles de route, des normes, des meilleures pratiques et des processus pour optimiser et développer l'architecture et l'ingénierie dans l'entreprise et la gouvernance, l'informatique et les domaines : ventes, personnes, finances, RH, collaboration et autres. En plus de déterminer l'architecture globale, il assure également l'alignement entre les domaines, l'informatique et l'ensemble d'Ubisoft. En outre, responsable des produits et initiatives clés de temps à autre. Gérer l'équipe et les produits des services transversaux et d'intégration.
+
+• Gestion • Leadership • Agile • Cloud • AWS • Intégration • Numérique • Stratégie de données • Kubernetes • DevOps • API • Feuilles de route • Planification •
+
 #### Architecte principal des solutions
-###### Shell (via The Aubay Group) &mdash; London, UK | janv 2021 • juin 2022
+###### Shell (via The Aubay Group) &mdash; London, UK | janv 2022 • juin 2022
 Fournir le développement de l'**architecture de la solution**, la consultation et l'assurance des produits et des projets. intégrer les : Processus métier, données, applications, aspects techniques et sécurité de l'information d'un produit ou d'une solution informatique. Encadrer les concepteurs détaillés et les analystes d'affaires des projets pendant leur travail de conception. Diriger et collaborer au sein d'équipes agiles et interfonctionnelles pour développer et construire des applications d'analyse de données pour le trading, l'énergie et le carbone du groupe.
 
 • Leadership • Agile • Azure • BizzDesign • Numérique • Azure Data Lake • Analytique • Azure API Management • Databricks • Event Grid • Data Factory • PowerBI • DevOps • Documents de conception de haut niveau• 
